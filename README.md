@@ -1,6 +1,8 @@
 # MultiTextInput
 
-`multi-text-input` is a Dash component library. Its only component is called `MultiTextInput` and allows you to easily create custom lists of strings with a simple interface and delete some elements from that list.
+`multi-text-input` is a Dash component library. Its only component is called `MultiTextInput` and allows you to easily create custom lists of strings with a simple interface and delete some elements from that list. The Github repository is available [here](https://github.com/pauldechorgnat/multi-text-input/).
+
+<center>![Demo of multi-text-input](https://github.com/pauldechorgnat/multi-text-input/demo-multi-text-input-dash.gif)</center>
 
 ![](demo-multi-text-input-dash.gif)
 
