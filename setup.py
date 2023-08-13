@@ -16,6 +16,7 @@ setup(
     author=package['author'],
     packages=[package_name],
     include_package_data=True,
+    data_files=[("config", ["long_description.md"])],
     license=package['license'],
     description=package.get('description', package_name),
     long_description=long_description,
