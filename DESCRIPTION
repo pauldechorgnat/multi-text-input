@@ -1,0 +1,13 @@
+Package: multiTextInput
+Title: A simple component used to input multiple texts
+Version: 0.0.1
+Description: A simple component used to input multiple texts
+Depends: R (>= 3.0.2)
+Imports: 
+Suggests: 
+License: MIT + file LICENSE
+URL: https://github.com/pauldechorgnat/multi-text-input
+BugReports: https://github.com/pauldechorgnat/multi-text-input/issues
+Encoding: UTF-8
+LazyData: true
+KeepSource: true

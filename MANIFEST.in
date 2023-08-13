@@ -1,0 +1,11 @@
+include multi_text_input/multi_text_input.min.js
+include multi_text_input/multi_text_input.min.js.map
+include multi_text_input/async-*.js
+include multi_text_input/async-*.js.map
+include multi_text_input/*-shared.js
+include multi_text_input/*-shared.js.map
+include multi_text_input/metadata.json
+include multi_text_input/package-info.json
+include README.md
+include LICENSE
+include package.json
