@@ -1,6 +1,6 @@
 {
   "name": "multi_text_input",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple component used to input multiple texts",
 "repository": {
     "type": "git",
